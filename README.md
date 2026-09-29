@@ -8,7 +8,7 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
-  <h1>Hey there! I'm Patnala Revathi</h1>
+  <h1>Hey there! I'm  Revathi Patnala</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Development+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+MERN+%2B+Java;Building+Ideas+into+Reality+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
